@@ -1,5 +1,6 @@
 # Taiyo test project
 
+![image](https://github.com/Ashirwad-Shetye/taiyo/assets/99337222/d3436ab2-93a3-447e-93e0-55fa709a62fe)
 
 Contact management application with charts and maps to visualize covid cases.
 
